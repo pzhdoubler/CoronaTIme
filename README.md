@@ -1,2 +1,2 @@
-# CoronaTIme
+# CoronaTime
 Coronavirus Game
